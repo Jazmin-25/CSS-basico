@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row ;
+    align-content: center ;
+}
+#one {background-color: #dc143c;
+    width: 200px;
+    height: 200px;}
+#two {background-color: darkorchid;
+     width: 200px;
+       height: 200px;}
+#three {background-color: yellow;
+    width: 200px;
+    height: 200px;
+    flex-basis: 800px;
+}
+    
